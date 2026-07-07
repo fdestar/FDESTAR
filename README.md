@@ -691,7 +691,7 @@ FDE在不同行业的运作方式：
 | 渠道 | 链接 |
 |---|---|
 | **邮箱** | [fdestar@outlook.com](mailto:fdestar@outlook.com) |
-| **GitHub** | [github.com/fde-star](https://github.com/fdestar) |
+| **GitHub** | [github.com/fdestar](https://github.com/fdestar) |
 
 ---
 
