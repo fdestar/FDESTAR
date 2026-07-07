@@ -1,17 +1,3 @@
-```markdown
-<div align="center">
-
-<!-- ═══════════════════════════════════════════ -->
-<!--                 FDE STAR                   -->
-<!-- ═══════════════════════════════════════════ -->
-
-<svg width="120" height="120" viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <polygon points="200,40 240,150 360,150 265,220 295,340 200,270 105,340 135,220 40,150 160,150" fill="none" stroke="#e8a838" stroke-width="6" opacity="0.3"/>
-  <polygon points="200,70 230,155 330,155 250,210 275,310 200,255 125,310 150,210 70,155 170,155" fill="rgba(232,168,56,0.08)" stroke="#e8a838" stroke-width="4"/>
-  <text x="200" y="185" text-anchor="middle" font-family="sans-serif" font-size="48" fill="#e8a838" font-weight="bold" letter-spacing="6">FDE</text>
-  <text x="200" y="225" text-anchor="middle" font-family="sans-serif" font-size="32" fill="#e8a838" opacity="0.7" letter-spacing="10">STAR</text>
-</svg>
-
 # FDE STAR
 
 ### Forward Deployed Engineer Community
